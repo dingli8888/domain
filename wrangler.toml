@@ -4,7 +4,7 @@ compatibility_date = "2025-11-17"
 keep_vars = true
 
 [[kv_namespaces]]
-binding = "DOMAIN" 
+binding = "DOMAIN_KV" 
 id = "dbac9105ef514fbe98f15ec228a281e5" # action部署时被变量替换
 
 [triggers]
